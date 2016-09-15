@@ -1,3 +1,13 @@
+;;; asana.el --- Emacs bridge for Asana.
+
+;; Copyright (C) 2011 jcpetkovich
+
+;; Author: Jean-Christophe Petkovich, Imartel
+;; Version: 0.1
+;; Package-Requires: ((helm))
+;; Keywords: asana, helm, tasks
+;; URL: https://github.com/jcpetkovich/emacs-asana
+
 (require 'json)
 (require 'url)
 (require 'url-http)
